@@ -1,4 +1,4 @@
-angular.module('app.controllers', ['idf.br-filters'])
+angular.module('app.controllers', [])
   
 .controller('AgendamentosController', function ($scope, GerenciadorService) {
 
